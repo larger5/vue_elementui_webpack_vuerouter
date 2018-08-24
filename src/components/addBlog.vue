@@ -17,7 +17,7 @@
                 </el-select>
             </el-form-item>
             <el-form-item>
-                <el-button type="primary" @click="updateBlog">立即添加</el-button>
+                <el-button type="primary" @click="addBlog">立即添加</el-button>
             </el-form-item>
         </el-form>
     </div>
